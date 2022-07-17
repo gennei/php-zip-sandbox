@@ -1,0 +1,15 @@
+{
+    "name": "gennei/php-zip-sandbox",
+    "autoload": {
+        "psr-4": {
+            "Gennei\\PhpZipSandbox\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gennei",
+            "email": "sai.gennei@gmail.com"
+        }
+    ],
+    "require": {}
+}
